@@ -8,9 +8,20 @@
 [![Entries](https://img.shields.io/badge/Entries-1000%2B-blue)]()
 [![License](https://img.shields.io/badge/License-CC0%201.0-lightgrey)]()
 
+> ⚠️ **AI moves fast.** This repo was compiled June 2026. Some entries may already be outdated.
+> Found something wrong or missing? [Open a PR](./CONTRIBUTING.md) — that's how this stays alive.
+
 **One library. Every AI tool. Every solution.**
 
 *If you have an AI problem — the answer is here. No searching anywhere else.*
+
+---
+
+### ⚡ [State of AI — June 2026](./state-of-ai/) (START HERE)
+
+> **1 billion+ people** now use AI monthly. **90% of developers** use AI coding tools. **54% of code** is AI-generated. Claude Opus 4.8 is #1. GPT-5.6 just dropped. Cursor hit $2B ARR. The world changed in 2 years.
+>
+> **[→ Read the full breakdown](./state-of-ai/)**
 
 ---
 
