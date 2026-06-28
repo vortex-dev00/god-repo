@@ -1,51 +1,72 @@
-# 📰 AI News & How to Stay Updated
+# 📰 AI News & Staying Updated
 
-> Don't drown in AI news — these are the signal, not the noise.
+> Best newsletters, podcasts, and blogs to stay updated on AI.
 
 ---
 
-## 📧 Daily Newsletters (pick 1-2)
-- **TLDR AI** — Best for busy people, 5-min read — https://tldr.tech/ai
-- **The Rundown AI** — Tool-focused, practical — https://therundown.ai/
-- **Ben's Bites** — Startup/VC angle — https://bensbites.com/
+## 📰 AI NEWS & STAYING UPDATED
 
-## 📧 Weekly Deep Dives (pick 1-2)
-- **The Batch (Andrew Ng)** — Research + industry — https://deeplearning.ai/the-batch/
-- **Import AI** — Research-focused — https://importai.substack.com/
-- **Ahead of AI (Raschka)** — Technical deep dives — https://magazine.sebastianraschka.com/
-- **Last Week in AI** — Comprehensive roundup — https://lastweekin.ai/
+### Tier 1: Daily/Weekly Newsletters (Essential)
 
-## 📺 YouTube (watch weekly)
-- **Matt Wolfe** — Weekly AI tools roundup — https://youtube.com/@maboroshi
-- **Fireship** — Fast dev/AI updates — https://youtube.com/@Fireship
-- **Two Minute Papers** — Research in 2 min — https://youtube.com/@TwoMinutePapers
-- **AI Explained** — Deep breakdowns — https://youtube.com/@AIExplainedYT [?]
+| Newsletter | Focus | Frequency | URL |
+|------------|-------|-----------|-----|
+| **The Rundown AI** | Daily AI news, tools, and tutorials; 600K+ readers | Daily | https://www.therundown.ai |
+| **TLDR AI** | Byte-sized TL;DR of the most important AI developments and papers | Daily | https://tldr.tech/ai |
+| **Ben's Bites** | Tech-focused AI digest; quick reads, product launches, developer news | Daily | https://bensbites.co |
+| **Superhuman** | AI productivity, business use cases, tools, and guides; 700K+ readers | Daily | https://www.joinsuperhuman.ai |
+| **AI Breakfast** | Curated analysis of AI projects, research, and weekly trends | Weekly | https://aibreakfast.beehiiv.com |
+| **Import AI (Jack Clark)** | AI safety, policy, and research; written by Anthropic co-founder | Weekly | https://importai.substack.com |
+| **Ahead of AI (Sebastian Raschka)** | Deep technical analysis of machine learning research and frameworks | Bi-weekly | https://sebastianraschka.substack.com |
+| **The Sequence** | AI research, ML models, and platforms; highly technical but accessible | 3× / week | https://thesequence.substack.com |
 
-## 🐦 X/Twitter Lists
-- Follow: @swyx, @simonw, @kaborobert, @ylecun, @emaboroshi, @DrJimFan
-- Lists: search for "AI/ML" curated lists on X
+---
 
-## 🌐 News Sites
-- **The Verge AI** — https://theverge.com/ai-artificial-intelligence
-- **TechCrunch AI** — https://techcrunch.com/category/artificial-intelligence/
-- **Ars Technica AI** — https://arstechnica.com/ai/
-- **VentureBeat AI** — https://venturebeat.com/ai/
-- **MIT Technology Review** — https://technologyreview.com/topic/artificial-intelligence/
+### Tier 2: AI Podcasts for Deep Dives
 
-## 📡 Reddit (daily check)
-- **r/LocalLLaMA** — Local AI, new models, benchmarks
-- **r/MachineLearning** — Research papers, industry news
-- **r/ChatGPT** — Usage tips, new features
-- **r/singularity** — Future of AI, breaking news
+| Podcast | Hosts | Best For | URL |
+|---------|-------|----------|-----|
+| **The Cognitive Revolution** | Nathan Labenz | Interviews with AI researchers, founders, and builders; deep dives into model capability | Spotify / Apple |
+| **Latent Space** | Swyx & Alessio | Developer-focused LLM/agentic engineering; creators of the "AI Engineer" term | Spotify / Apple |
+| **Practical AI** | Chris Benson & Daniel Whitenack | Real-world applications of AI; focus on practical developer tooling and APIs | Spotify / Apple |
+| **AI Podcast (NVIDIA)** | Noah Kravitz | Stories from the front lines of AI research and application across industries | Spotify / Apple |
+| **Hard Fork** | Kevin Roose & Casey Newton | Broad tech news with heavy, smart focus on the societal/business impact of AI | Spotify / Apple |
+| **Eye on AI** | Craig S. Smith | Interviews with top researchers on AI safety, capabilities, and future directions | Spotify / Apple |
+| **No Priors** | Elad Gil & Sarah Guo | Business of AI; venture capital perspective, interviews with leading AI founders | Spotify / Apple |
 
-## 🎙️ Podcasts (commute listening)
-- **Latent Space** — Technical AI engineering — https://latent.space/
-- **Lex Fridman** — Long researcher interviews — https://lexfridman.com/
-- **Practical AI** — Hands-on applications — https://changelog.com/practicalai
-- **No Priors** — VC perspective on AI — https://nopriors.ai/ [?]
+---
 
-## Pro tip: Set up an AI news pipeline
-1. Subscribe to 1-2 newsletters
-2. Follow r/LocalLLaMA daily
-3. Watch 1 YouTube channel weekly
-4. That's it. You'll catch 95% of what matters.
+### Tier 3: Influential AI Research & Blogs
+
+| Blog | Owner | Focus | URL |
+|------|-------|-------|-----|
+| **OpenAI Blog** | OpenAI | Corporate announcements, research breakthroughs, safety updates | https://openai.com/blog |
+| **Anthropic News** | Anthropic | Research, safety, interpretability, model updates | https://anthropic.com/news |
+| **Google Research Blog** | Google | State-of-the-art computer science, Gemini updates, machine learning papers | https://research.google/blog |
+| **Hugging Face Blog** | Hugging Face | Open-source model releases, fine-tuning guides, community projects | https://huggingface.co/blog |
+| **Meta AI Blog** | Meta | Llama releases, open science, hardware-level optimizations | https://ai.meta.com/blog |
+| **Andrej Karpathy's Blog / YouTube**| Andrej Karpathy | Deep learning education, building LLMs from scratch, code walkthroughs | YouTube / Andrej's blog |
+| **Phind Blog** | Phind | Developer productivity, model benchmarks, LLM performance | https://www.phind.com/blog |
+
+---
+
+### Key Resources
+
+- **The Rundown AI** — Daily AI newsletter — https://www.therundown.ai
+- **TLDR AI** — Daily tech/AI newsletter — https://tldr.tech/ai
+- **Ben's Bites** — Daily AI digest — https://www.bensbites.co
+- **Superhuman AI** — Daily AI productivity newsletter — https://www.joinsuperhuman.ai
+- **Import AI** — Weekly AI policy and research newsletter — https://importai.substack.com
+- **Latent Space Podcast** — AI engineering podcast — https://www.latent.space
+- **The Cognitive Revolution Podcast** — Deep AI capability discussion — https://www.cognitiverevolution.ai
+- **Andrej Karpathy's YouTube** — Best deep learning educational resource — https://www.youtube.com/@AndrejKarpathy
+
+---
+
+## Newsletters
+- **The Batch** — Andrew Ng's weekly AI news and insights — https://www.deeplearning.ai/the-batch/
+- **L'Imprenditore AI** — AI business strategy and news (Italian) — https://imprenditore.ai/
+- **AI Valley** — Curated daily AI tools and news — https://theaivalley.com/
+
+## Podcasts
+- **Lex Fridman Podcast** — In-depth interviews with AI pioneers and researchers — https://lexfridman.com/podcast/
+- **Wan Show (LTT)** — Tech news podcast often discussing AI trends — https://www.youtube.com/@LinusTechTips

@@ -202,7 +202,7 @@ Production-grade tools. Self-hosting. Fine-tuning. The deep stuff.
 1. **Pick your level** above (🟢 🟡 🔵 🟣)
 2. **Browse by folder** — click into the section that matches your need
 3. **Search** — use GitHub's search or `Ctrl+F` to find anything
-4. Every entry format: **Name** — description — [Link](URL)
+4. Every entry format: `**Name** — description — \[Link\]\(URL\)`
 
 **Legend:** ⭐ = GitHub stars | 💰 = paid | 🆓 = free tier | 🔓 = open source | [?] = unverified
 
@@ -213,7 +213,7 @@ Production-grade tools. Self-hosting. Fine-tuning. The deep stuff.
 Found something missing? This repo aims to be **the one-stop resource for everything AI**.
 
 1. Fork → add your entry in the right folder's `README.md` → open a PR
-2. Format: `**Name** — description — [Link](URL)`
+2. Format: `**Name** — description — \[Link\]\(URL\)`
 3. See [CONTRIBUTING.md](./CONTRIBUTING.md) for details
 
 ---

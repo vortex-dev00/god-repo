@@ -1,0 +1,112 @@
+﻿
+README.md:12:> Found something wrong or missing? [Open a PR](./CONTRIBUTING.md) — that's how this stays alive.
+README.md:20:### ⚡ [State of AI — June 2026](./state-of-ai/) (START HERE)
+README.md:24:> **[→ Read the full breakdown](./state-of-ai/)**
+README.md:49:| 📖 [AI Concepts Explained](./learn/ai-concepts-explained/) | What is AI, ChatGPT, prompts — explained li
+ke you're 5 |
+README.md:50:| 🆓 [Free AI Tools](./everyone/free-ai-tools/) | The best AI you can use TODAY for $0 |
+README.md:51:| 📱 [AI Mobile Apps](./everyone/ai-mobile-apps/) | Download and go — best AI apps for your phone |
+README.md:52:| 🌐 [AI Browser Extensions](./everyone/ai-browser-extensions/) | AI that works right in your browser |
+README.md:53:| 🔄 [Replace X with AI](./everyone/replace-x-with-ai/) | "How do I use AI to replace [tool]?" |
+README.md:54:| 🎓 [Best Courses](./learn/best-courses/) | Free courses to learn from zero |
+README.md:58:2. Install a [browser extension](./everyone/ai-browser-extensions/) like Monica or Harpa
+README.md:59:3. Browse the [everyday problems](./everyone/ai-for-everyday-problems/) section for your use case
+README.md:71:| 🌟 [AI for Everyday Problems](./everyone/ai-for-everyday-problems/) | Writing, photos, travel, finance, 
+health — AI for everything |
+README.md:72:| 👔 [AI by Profession](./everyone/ai-by-profession/) | Tools for YOUR job (legal, health, marketing, sale
+s, etc.) |
+README.md:73:| 🎨 [AI Design & No-Code](./everyone/ai-design-no-code/) | Build apps & websites WITHOUT coding |
+README.md:74:| 🗂️ [AI Directories](./discover/ai-directories-marketplaces/) | Where to discover new AI tools daily |
+README.md:75:| 📊 [Model Comparisons](./discover/model-comparisons-benchmarks/) | Which AI model is best for what |
+README.md:76:| 🤖 [AI Models & Providers](./discover/ai-models-providers/) | All AI APIs, pricing, what they're good at
+ |
+README.md:77:| 📺 [YouTube, Podcasts, Newsletters](./learn/youtube-podcasts-newsletters/) | Stay updated without drowni
+ng |
+README.md:78:| 💬 [Communities](./learn/communities/) | Discord/Reddit communities to join |
+README.md:81:1. Compare [AI models](./discover/model-comparisons-benchmarks/) to pick the right one
+README.md:82:2. Explore [no-code builders](./everyone/ai-design-no-code/) (Bolt.new, v0.dev, Lovable)
+README.md:83:3. Find the right [AI for your profession](./everyone/ai-by-profession/)
+README.md:84:4. Try [self-hosting](./discover/open-source-alternatives/) to run AI privately
+README.md:96:| 🤖 [CLI Agents](./developers/cli-agents/) | Claude Code, Codex, Gemini CLI, Aider — configs, hooks, skil
+ls |
+README.md:97:| 🔌 [MCP Ecosystem](./developers/mcp-ecosystem/) | Every MCP server, SDK, registry |
+README.md:98:| 💻 [AI Editors & IDE Extensions](./developers/ai-editors-ide-extensions/) | Cursor, Windsurf, Cline, Cop
+ilot, Continue |
+README.md:99:| 🖥️ [Local AI](./developers/local-ai/) | Ollama, LM Studio, llama.cpp, run models on your machine |
+README.md:100:| 🏗️ [Agent Frameworks](./developers/agent-frameworks/) | LangChain, CrewAI, Pydantic AI, OpenAI SDK, Ma
+stra |
+README.md:101:| 🗄️ [RAG & Vector Databases](./developers/rag-vector-databases/) | Chroma, Qdrant, Pinecone, pgvector |
+README.md:102:| ⚙️ [DevOps & CI/CD](./developers/devops-cicd-ai-tools/) | AI code review, testing, terminals, security 
+|
+README.md:103:| 🎯 [Prompt Engineering](./developers/prompt-engineering-observability/) | Prompt libraries, evaluation,
+ observability |
+README.md:104:| 🔀 [LLM Gateways](./developers/llm-gateways-routers/) | LiteLLM, Portkey, OpenRouter |
+README.md:105:| 🚀 [Starters & Boilerplates](./developers/starters-boilerplates/) | T3 Stack, SaaS kits, AI app templat
+es |
+README.md:106:| 📚 [Mega GitHub Repos](./developers/mega-github-repos/) | Every essential 10k+ star repo |
+README.md:109:1. Set up [Claude Code](./developers/cli-agents/) or [Cursor](./developers/ai-editors-ide-extensions/)
+README.md:110:2. Add [MCP servers](./developers/mcp-ecosystem/) for your stack
+README.md:111:3. Pick a [framework](./developers/agent-frameworks/) and build your first agent
+README.md:112:4. Deploy with a [starter template](./developers/starters-boilerplates/)
+README.md:124:| 🔌 [MCP Ecosystem (Deep)](./developers/mcp-ecosystem/) | Build custom servers, protocol internals |
+README.md:125:| 🏗️ [Agent Frameworks](./developers/agent-frameworks/) | Multi-agent orchestration, tool use patterns |
+README.md:126:| 🗄️ [RAG & Vector DBs](./developers/rag-vector-databases/) | Production RAG pipelines, hybrid search |
+README.md:127:| 🖥️ [Local AI (Production)](./developers/local-ai/) | vLLM, TGI, model serving at scale |
+README.md:128:| 🔀 [LLM Gateways](./developers/llm-gateways-routers/) | Routing, caching, cost optimization |
+README.md:129:| 🔓 [Open-Source Alternatives](./discover/open-source-alternatives/) | Self-host everything, replace pai
+d tools |
+README.md:130:| 🖥️ [AI Hardware Guide](./meta/ai-hardware-guide/) | GPU selection, Mac vs PC, VRAM requirements |
+README.md:131:| ☁️ [GPU Cloud Providers](./meta/gpu-cloud-providers/) | RunPod, Vast.ai, Lambda — where to rent compute
+ |
+README.md:132:| 📊 [Datasets & Benchmarks](./meta/datasets-benchmarks/) | Training data, eval suites, leaderboards |
+README.md:133:| ⭐ [Awesome Lists](./discover/awesome-lists/) | Every awesome-* list worth bookmarking |
+README.md:134:| 📄 [Research Papers](./learn/research-papers/) | Must-read papers (Transformers, LoRA, RAG, etc.) |
+README.md:135:| 📰 [AI News](./meta/ai-news-staying-updated/) | How to stay current without drowning |
+README.md:138:1. Study the [research papers](./learn/research-papers/) that shaped today's AI
+README.md:139:2. Choose your [GPU / compute](./meta/ai-hardware-guide/) setup
+README.md:140:3. Build with [agent frameworks](./developers/agent-frameworks/) + [MCP](./developers/mcp-ecosystem/)
+README.md:141:4. Deploy with [self-hosted stacks](./discover/open-source-alternatives/)
+README.md:217:3. See [CONTRIBUTING.md](./CONTRIBUTING.md) for details
+developers\README.md:7:| [CLI Agents](./cli-agents/) | Claude Code, Codex, Gemini CLI, Aider — configs, skills, hooks |
+developers\README.md:8:| [MCP Ecosystem](./mcp-ecosystem/) | Every MCP server, SDK, registry, and catalog |
+developers\README.md:9:| [AI Editors & IDE Extensions](./ai-editors-ide-extensions/) | Cursor, Windsurf, Cline, Copilot
+, Continue |
+developers\README.md:10:| [Agent Frameworks](./agent-frameworks/) | LangChain, CrewAI, Pydantic AI, OpenAI SDK, Mastra 
+|
+developers\README.md:11:| [RAG & Vector Databases](./rag-vector-databases/) | Chroma, Qdrant, Pinecone, pgvector, Llama
+Index |
+developers\README.md:12:| [Local AI](./local-ai/) | Ollama, LM Studio, llama.cpp, ComfyUI, Whisper |
+developers\README.md:13:| [Starters & Boilerplates](./starters-boilerplates/) | T3 Stack, SaaS kits, AI agent starters 
+|
+developers\README.md:14:| [DevOps & CI/CD](./devops-cicd-ai-tools/) | CodeRabbit, AI testing, AI terminals, security |
+developers\README.md:15:| [Prompt Engineering](./prompt-engineering-observability/) | Prompt libraries, observability, 
+evaluation |
+developers\README.md:16:| [LLM Gateways](./llm-gateways-routers/) | LiteLLM, Portkey, OpenRouter |
+developers\README.md:17:| [Mega GitHub Repos](./mega-github-repos/) | Every essential 10k+ star repo |
+discover\README.md:7:| [Models & Providers](./ai-models-providers/) | Every API — pricing, context windows, capabilitie
+s |
+discover\README.md:8:| [Directories & Marketplaces](./ai-directories-marketplaces/) | Where to discover new AI tools |
+discover\README.md:9:| [Comparisons & Benchmarks](./model-comparisons-benchmarks/) | Which model is best for what |
+discover\README.md:10:| [Awesome Lists](./awesome-lists/) | Every awesome-* list on GitHub |
+discover\README.md:11:| [Open-Source Alternatives](./open-source-alternatives/) | Free replacements for paid AI tools |
+everyone\README.md:7:| [Everyday Problems](./ai-for-everyday-problems/) | Writing, photos, travel, finance, health, soc
+ial media |
+everyone\README.md:8:| [By Profession](./ai-by-profession/) | Legal, medical, education, marketing, HR, sales |
+everyone\README.md:9:| [Design & No-Code](./ai-design-no-code/) | Figma AI, v0.dev, Bolt.new, website builders |
+everyone\README.md:10:| [Mobile Apps](./ai-mobile-apps/) | Best AI apps for iOS and Android |
+everyone\README.md:11:| [Browser Extensions](./ai-browser-extensions/) | Monica, Harpa, MaxAI — daily-use extensions |
+everyone\README.md:12:| [Free AI Tools](./free-ai-tools/) | Everything you can use with zero budget |
+everyone\README.md:13:| [Replace X with AI](./replace-x-with-ai/) | Which AI tool replaces which traditional tool |
+learn\README.md:7:| [Concepts Explained](./ai-concepts-explained/) | LLMs, RAG, tokens, agents, fine-tuning — all expla
+ined |
+learn\README.md:8:| [Best Courses](./best-courses/) | Free and paid courses for every skill level |
+learn\README.md:9:| [Research Papers](./research-papers/) | Must-read papers that shaped modern AI |
+learn\README.md:10:| [YouTube, Podcasts, Newsletters](./youtube-podcasts-newsletters/) | Best content to stay informed 
+|
+learn\README.md:11:| [Communities](./communities/) | Discord, Reddit, X accounts worth following |
+meta\README.md:7:| [Hardware Guide](./ai-hardware-guide/) | Which GPU to buy, Mac vs PC for AI |
+meta\README.md:8:| [GPU Cloud](./gpu-cloud-providers/) | RunPod, Vast.ai, Lambda — where to rent compute |
+meta\README.md:9:| [Datasets & Benchmarks](./datasets-benchmarks/) | Training data, eval suites, leaderboards |
+meta\README.md:10:| [AI News](./ai-news-staying-updated/) | How to stay up-to-date without drowning |
+
+
