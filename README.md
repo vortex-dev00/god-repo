@@ -10,6 +10,8 @@
 
 > If you have **any AI question** — the answer is here.
 
+🤝 **This repo belongs to everyone.** Add tools, fix outdated links, improve sections, restructure pages — every commit helps someone else find what they need. No contribution is too small. [See how to contribute →](./CONTRIBUTING.md)
+
 ---
 
 </div>
