@@ -31,8 +31,6 @@
 | 7️⃣ | **Use AI for my job/life** — profession-specific, education, health, finance | [→ AI for Your Life](#7️⃣-ai-for-your-life) |
 | 8️⃣ | **Stay ahead** — news, trends, communities, what's coming next | [→ Stay Updated](#8️⃣-stay-updated) |
 
----
-
 ## 🎯 What's Your Level?
 
 Each section below has content for **every level**. Pick yours:
@@ -47,13 +45,92 @@ Each section below has content for **every level**. Pick yours:
 
 ---
 
+## 👔 Pick Your Role
+
+*Already know your job? Here's your AI starter stack — the defaults + best alternatives.*
+
+<details>
+<summary><b>💻 Software Engineer</b> — Ship code faster</summary>
+
+| Job | Default | Alternatives |
+|-----|---------|-------------|
+| Daily driver chat | **Claude** | ChatGPT · Gemini |
+| In-editor AI | **Cursor** | Windsurf · Zed · Copilot |
+| Terminal coding agent | **Claude Code** | Codex CLI · Aider · Gemini CLI |
+| PR review | **CodeRabbit** | Greptile · Qodo |
+| Local model runner | **Ollama** | LM Studio · Jan |
+| Make any software agent-native | **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** (44K ⭐) | MCP servers |
+| Search docs | **Phind** | Perplexity · Exa |
+
+→ Deeper: [CLI Agents](./developers/cli-agents/) · [AI Editors](./developers/ai-editors-ide-extensions/) · [MCP Ecosystem](./developers/mcp-ecosystem/) · [Local AI](./developers/local-ai/)
+</details>
+
+<details>
+<summary><b>🔬 Researcher / Academic</b> — Citations, synthesis, long documents</summary>
+
+| Job | Default | Alternatives |
+|-----|---------|-------------|
+| Daily driver | **Claude** (long-context) | Gemini · ChatGPT |
+| Deep research | **ChatGPT Deep Research** | Gemini Deep Research · Claude |
+| Q&A on your own PDFs | **NotebookLM** | SciSpace |
+| Literature search | **Elicit** | Consensus · Undermind |
+| Cited web answers | **Perplexity** | Exa · Tavily |
+
+→ Deeper: [Research Papers](./learn/research-papers/) · [AI Models](./discover/ai-models-providers/)
+</details>
+
+<details>
+<summary><b>📈 Marketer / Growth</b> — Copy, SEO, campaigns, visuals at scale</summary>
+
+| Job | Default | Alternatives |
+|-----|---------|-------------|
+| Daily driver | **ChatGPT / Claude** | Gemini |
+| SEO content | **Surfer SEO** | Frase · Writesonic |
+| Visuals at scale | **Canva Magic Studio** | Adobe Firefly |
+| Decks & landing pages | **Gamma** | Tome · Beautiful.ai |
+| Repurpose video → clips | **Opus Clip** | Captions · Descript |
+| Campaign images | **Midjourney** | DALL·E · Flux · Ideogram |
+
+→ Deeper: [Design & No-Code](./everyone/ai-design-no-code/) · [Generative Media](./discover/generative-media-vision/)
+</details>
+
+<details>
+<summary><b>🎬 Content Creator</b> — YouTube, podcast, social</summary>
+
+| Job | Default | Alternatives |
+|-----|---------|-------------|
+| Scripting + ideation | **Claude / ChatGPT** | Gemini |
+| Text → video | **Runway** | Kling · Pika · Veo |
+| Edit by transcript | **Descript** | CapCut |
+| Voice / dubbing | **ElevenLabs** | PlayHT · Cartesia |
+| Music beds | **Suno** | Udio · Mubert |
+| Thumbnails | **Midjourney + Ideogram** | Flux · Recraft |
+
+→ Deeper: [Audio & Voice](./discover/audio-speech-voice-ai/) · [Generative Media](./discover/generative-media-vision/)
+</details>
+
+<details>
+<summary><b>🚀 Founder / Solo Builder</b> — One person, ten roles</summary>
+
+| Job | Default | Alternatives |
+|-----|---------|-------------|
+| Prompt → live app | **Lovable** | Bolt.new · Replit Agent |
+| In-editor coding | **Cursor** | Windsurf · Claude Code |
+| Landing + content | **Framer + Gamma** | v0 · Webflow |
+| Multi-step automation | **n8n** (OSS) | Make · Zapier AI |
+| Meeting notes | **Granola** | Fathom |
+| Browser agent | **Claude Computer Use** | Manus · Operator |
+
+→ Deeper: [App Builders](./everyone/ai-design-no-code/) · [Agent Frameworks](./developers/agent-frameworks/) · [Automation](./everyone/replace-x-with-ai/)
+</details>
+
+---
+
 ## ⚡ [State of AI — June 2026](./state-of-ai/)
 
 > **1B+ people** use AI monthly. **90% of devs** use AI tools. **54% of code** is AI-generated. Claude Opus 4.8 is #1. MCP has 9,400 servers. Cursor hit $2B ARR.
 >
 > **[→ Full breakdown](./state-of-ai/)**
-
----
 
 ---
 
