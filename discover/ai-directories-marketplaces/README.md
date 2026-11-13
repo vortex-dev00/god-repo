@@ -63,22 +63,24 @@ These are the sites where people go to **discover AI tools** — searchable data
 | 32 | **AI Directories** | Meta-directory helping founders submit to the right AI directories | https://aidirectori.es |
 | 33 | **Alignify** | AI tool comparison platform — compare TAAFT, Toolify, Futurepedia side by side | https://alignify.co/tools/directory |
 | 34 | **NeuralStackly** | AI tool directory and comparison site — 20+ competitor analysis | https://neuralstackly.com |
+| 35 | **AITrustList** | AI tools directory ranked by verified traffic and growth — 3,000+ tools across 200+ categories, ranked by real monthly visits and month-over-month growth, not paid placement | https://aitrustlist.com |
+| 36 | **AIHuntList** | Navigation hub for 3,000+ AI apps across 200+ categories | https://aihuntlist.com |
 
 ### 📋 General Startup/Software Directories (with AI sections)
 
 | # | Name | Description | URL |
 |---|------|-------------|-----|
-| 35 | **G2** | B2B software reviews — DA 91, trusted by enterprise buyers, review-driven discovery | https://g2.com |
-| 36 | **Capterra** | Part of Gartner Digital Markets — DA 91, high-intent business traffic | https://capterra.com |
-| 37 | **AlternativeTo** | "X alternative" search traffic — DA 82, great for positioning | https://alternativeto.net |
-| 38 | **Crunchbase** | Startup profiles + funding data — DA 90, essential for investor visibility | https://crunchbase.com |
-| 39 | **BetaList** | Pre-launch and beta products — early adopter audience | https://betalist.com |
-| 40 | **SaaSHub** | SaaS alternatives comparisons — positions products against competitors | https://saashub.com |
-| 41 | **Uneed** | Curated AI tools + productivity apps — $20 featured option | https://uneed.best |
-| 42 | **SourceForge** | DA 92 — old school but massive authority, open-source focus | https://sourceforge.net |
-| 43 | **Hacker News (Show HN)** | DA 91 — developer tools, brutally honest technical audience | https://news.ycombinator.com |
-| 44 | **Indie Hackers** | Bootstrapped products community | https://indiehackers.com |
-| 45 | **DevHunt** | Developer tools — community-first platform | https://devhunt.org |
+| 37 | **G2** | B2B software reviews — DA 91, trusted by enterprise buyers, review-driven discovery | https://g2.com |
+| 38 | **Capterra** | Part of Gartner Digital Markets — DA 91, high-intent business traffic | https://capterra.com |
+| 39 | **AlternativeTo** | "X alternative" search traffic — DA 82, great for positioning | https://alternativeto.net |
+| 40 | **Crunchbase** | Startup profiles + funding data — DA 90, essential for investor visibility | https://crunchbase.com |
+| 41 | **BetaList** | Pre-launch and beta products — early adopter audience | https://betalist.com |
+| 42 | **SaaSHub** | SaaS alternatives comparisons — positions products against competitors | https://saashub.com |
+| 43 | **Uneed** | Curated AI tools + productivity apps — $20 featured option | https://uneed.best |
+| 44 | **SourceForge** | DA 92 — old school but massive authority, open-source focus | https://sourceforge.net |
+| 45 | **Hacker News (Show HN)** | DA 91 — developer tools, brutally honest technical audience | https://news.ycombinator.com |
+| 46 | **Indie Hackers** | Bootstrapped products community | https://indiehackers.com |
+| 47 | **DevHunt** | Developer tools — community-first platform | https://devhunt.org |
 
 ---
 
